@@ -1,4 +1,13 @@
 # Engenharia de Prompts com NotebookLM
+
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
+## Link do Projeto
+
+- 📘 **NotebookLM:** https://notebooklm.google.com/notebook/8092adca-c2e0-41ab-af1e-1ee86c8ad8c1?authuser=1
+
+---
+
 A Engenharia de Prompts possui aplicação direta em diversas atividades administrativas, permitindo aumentar a produtividade e a qualidade das entregas. Este projeto tem como objetivo construir um Caderno no NotebookLM para estudar técnicas de engenharia de prompts, compreender boas práticas e desenvolver melhores prompts para uso profissional. 
 
 ---
